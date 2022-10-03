@@ -1,2 +1,2 @@
-//First Javascript code
-console.log('Hello World');
+
+console.log('Hi whats up');
